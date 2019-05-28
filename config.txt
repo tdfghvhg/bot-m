@@ -1,0 +1,6 @@
+owner=454567139899080705
+prefix=!
+game=raouf
+stayinchannel=true
+songinstatus=false
+token=NTgyODYzNjIxMjY1MjkzMzMy.XO0BdQ.xsQzxcvM2iZe6GfFCpCWxFnLseQ
